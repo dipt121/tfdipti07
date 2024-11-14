@@ -1,0 +1,1 @@
+vmsize = "t2.micro"
